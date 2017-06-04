@@ -11,14 +11,11 @@ The user starts with $100.
 
 ## Getting Started
 Fork or close the repository. 
-
-npm install
+npm install.
 
 On seperate terminals:
-
-grunt
-
-npm start
+grunt.
+npm start.
 
 ## Built With
 Bootstrap
