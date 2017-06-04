@@ -26,8 +26,10 @@ MEAN Stack
 ES6 Classes
 
 ## Authors
+**Keith Tomlinson**
 
-* **Keith Tomlinson**
 [Claudia Calderas](https://github.com/claudiacalderas)
+
 [Anisa Abdulkadir](https://github.com/aanisa)
+
 [Erin Kinnen](https://github.com/erinkinnen)
