@@ -11,10 +11,13 @@ The user starts with $100.
 
 ## Getting Started
 Fork or close the repository. 
+
 npm install
 
 On seperate terminals:
+
 grunt
+
 npm start
 
 ## Built With
@@ -25,13 +28,6 @@ ES6 Classes
 ## Authors
 
 * **Keith Tomlinson**
-* **[Claudia Calderas]**(https://github.com/claudiacalderas)
-* **[Anisa Abdulkadir]**(https://github.com/aanisa)
-* **[Erin Kinnen]**(https://github.com/erinkinnen)
-
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+[Claudia Calderas](https://github.com/claudiacalderas)
+[Anisa Abdulkadir](https://github.com/aanisa)
+[Erin Kinnen](https://github.com/erinkinnen)
